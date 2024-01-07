@@ -45,7 +45,7 @@ public class HundirLaFlota {
 	static boolean activarRecursividad = false;
 
 	// ACTIVAR MODO TRAMPOSO
-	static boolean tramposo = true;
+	static boolean tramposo = false;
 
 	// DIFICULTAD BOT
 	static boolean dificultadFacil = false;
