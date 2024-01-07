@@ -15,7 +15,7 @@ public class HundirLaFlota {
 	public static final String VERDE = "\u001B[32m";
 	public static final String AZUL = "\u001B[34m";
 	public static final String NARANJA = "\u001B[38;5;208m";
-	public static final String GRIS = "\u001B[38;5;250m";
+	public static final String GRIS = "\u001B[38;5;240m";
 	// public static final String GRIS_OSCURO = "\u001B[38;5;240m";
 	// public static final String GRIS_CLARO = "\u001B[38;5;250m";
 	public static final String barco = "■";
